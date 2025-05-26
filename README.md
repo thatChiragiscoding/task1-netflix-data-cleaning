@@ -1,4 +1,3 @@
-%%writefile README.md
 # Netflix Data Cleaning Report
 
 ## Changes Made:
